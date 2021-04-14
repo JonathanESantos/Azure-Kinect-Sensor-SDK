@@ -1,5 +1,4 @@
 import numpy as np
-from matplotlib import pyplot as plt
 import k4a
 
 if __name__ == '__main__':
